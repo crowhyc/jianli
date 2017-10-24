@@ -10,7 +10,6 @@
 - 掌握23种设计模式
 - jvm调优经验
 - 代码洁癖,设计洁癖
-- 希望能与优秀的公司,优秀的人一起再攀高峰,共创未来
  ---
 
 ##   个人信息：
@@ -54,4 +53,7 @@ iBaby业务服务器系统主要是在孕妇在备孕,怀孕,孕婴过程中为�
 - 脚本：python/JavaScript/nodejs
 - 版本管理、文档和自动化部署工具：Svn/Git/Maven/Gradle/Npm
 - 开发工具:MacOS/windows/IDEA/Eclipse/Sublime/iterm2
- --- 
+---
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
